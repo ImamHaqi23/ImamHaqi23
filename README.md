@@ -6,7 +6,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://www.linkedin.com/in/imam-baihaqi-10932819a/" target="blank"><img src="https://img.shields.io/badge/Imam_Baihaqi-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/imam-baihaqi-10932819a/" target="blank"><img src="https://img.shields.io/badge/Imam_Baihaqi-30302f?style=flat&logo=linkedin&logoColor=%230A66C2" /></a>
 </p>
 
 <!--
