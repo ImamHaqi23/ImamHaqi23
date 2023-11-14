@@ -1,8 +1,12 @@
 <h1 align="center">Hi👋, I'm Imam Baihaqi</h1>
 <h3 align="center" style="font-style: italic;">Front End Developer</h3>
 
-- 🌱 I’m currently learning **Web Development as Front End.**
+- 🌱 I’m currently learning **React JS**
 - 📫 How to reach me: imam.baihaqi2396@gmail.com
+
+<p>
+    <a href="[https://linkedin.bagusfe.com](https://www.linkedin.com/in/imam-baihaqi-10932819a/)" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
+</p>
 
 <!--
 **ImamHaqi23/ImamHaqi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
