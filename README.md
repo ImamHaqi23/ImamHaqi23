@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi👋, I'm Imam Baihaqi</h1>
+<h2 align="center">Front End Developer</h2>
+
+- 🌱 I’m currently learning **Web Development as Front End.**
+- 📫 How to reach me: imam.baihaqi2396@gmail.com
 
 <!--
 **ImamHaqi23/ImamHaqi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
