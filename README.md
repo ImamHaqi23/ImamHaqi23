@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React JS**
 - 📫 How to reach me: imam.baihaqi2396@gmail.com
 
-**languages and tools:**  
+### Let's connect!
 
 <p>
   <a href="https://skillicons.dev">
