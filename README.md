@@ -6,9 +6,9 @@
 
 **languages and tools:**  
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,bootstrap,css,html,github,git,vercel,postman,figma" />
   </a>
 </p>
 
