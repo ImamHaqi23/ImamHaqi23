@@ -5,7 +5,7 @@
 - 📫 How to reach me: imam.baihaqi2396@gmail.com
 
 <p>
-    <a href="[https://linkedin.bagusfe.com](https://www.linkedin.com/in/imam-baihaqi-10932819a/)" target="blank"><img src="https://img.shields.io/badge/Imam_Baihaqi-30302f?style=flat&logo=linkedin" /></a>
+    <a href="(https://www.linkedin.com/in/imam-baihaqi-10932819a/)" target="blank"><img src="https://img.shields.io/badge/Imam_Baihaqi-30302f?style=flat&logo=linkedin" /></a>
 </p>
 
 <!--
