@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Imam Baihaqi</h1>
-<h2 align="center">Front End Developer</h2>
+<h3 align="center" style="font-style: italic;">Front End Developer</h3>
 
 - 🌱 I’m currently learning **Web Development as Front End.**
 - 📫 How to reach me: imam.baihaqi2396@gmail.com
