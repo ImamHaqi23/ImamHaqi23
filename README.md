@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋, I'm Imam Baihaqi</h1>
 <h3 align="center" >Front End Developer</h3>
 
-- 🌱 I’m currently learning **React JS**
-- 📫 How to reach me: imam.baihaqi2396@gmail.com
+### About
+I am a Computer Engineering graduate from STIKI Malang in 2021. Over the past two years, I have been dedicated to self-learning, participating in various free online training, and attending bootcamps focused on Front-End development using React JS and Tailwind CSS. I have a strong passion for learning and am prepared to contribute to web development.
 
 ### Language and Tools
 <p>
